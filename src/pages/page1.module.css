@@ -1,0 +1,59 @@
+.heading{
+    font-family: Inter;
+    font-size: 66px;
+    font-weight: 500;
+    line-height: 97.37px;
+    margin-bottom:0px;
+    text-align: left;
+    color:white;
+}
+
+.loremtext{
+    font-family: Inter;
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 29.25px;
+    text-align: left;
+    color:white;
+}
+
+
+.email{
+    display:flex;
+    justify-content: end;
+    align-items: center;
+    width: 438px;
+    height: 74px;
+    padding-right:10px;
+    /* color: #FFFFFF; */
+    background-color:var(--grayShade);
+    width: 438px;
+    height: 74px;
+    top: 615px;
+    left: 154px;
+    gap: 0px;
+    border-radius: 43px;
+    opacity: 0px;
+    border-radius: 43px;
+}
+
+.emailInput{
+    margin-right:30px;
+    background-color:var(--grayShade);
+    color:#545454;
+    border:none;
+    width: 200px;
+    height: 26px;
+    top: 639px;
+    left: 216px;
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 26px;
+    text-align: center;
+}
+
+.emailInput:focus{
+    outline:none;
+    /* border:2px solid red; */
+}

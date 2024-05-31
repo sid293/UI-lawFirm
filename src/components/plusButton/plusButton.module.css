@@ -1,0 +1,14 @@
+.wrapper{
+    
+}
+
+.plus{
+    display:flex;
+    justify-content: center;
+    align-items:center;
+    width:30px;
+    border-radius:50px;
+    font-size:30px;
+    height:30px;
+    background-color:var(--orangeShade);
+}

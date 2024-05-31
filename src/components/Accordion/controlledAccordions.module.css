@@ -1,0 +1,19 @@
+.wrapper{
+    /* background-color:var(--grayShade); */
+    background-color:var(--backgroundTwo) !important;
+    /* color:white; */
+    border-bottom: 2px solid #282828;
+}
+
+.front{
+    color:white;
+    font-family: Inter;
+    font-size: 24px;
+    font-weight: 600;
+    line-height: 24px;
+    text-align: left;
+}
+
+.description{
+    color:#616161;
+}

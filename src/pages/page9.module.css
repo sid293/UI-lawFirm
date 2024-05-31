@@ -1,0 +1,49 @@
+.wrapper{
+    height:40vh;
+    color:white;
+    background-color:var(--backgroundTwo);
+    width:100vw;
+}
+
+.content{
+
+    padding-top:65px;
+}
+
+.upperContent{
+    display:flex;
+    justify-content: space-between;
+}
+
+.iconsWrapper{
+    height:100%;
+    padding-right:100px;
+}
+
+.icon{
+    display:flex;
+    justify-content: center;
+    height:30px;
+    padding-left:50px;
+}
+
+.navs{
+    display:flex;
+    justify-content:space-between;
+    gap:80px;
+}
+
+.icons{
+    color:white;
+}
+
+.lowerContent{
+    font-family: Helvetica Now Display;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 20px;
+    text-align: left;
+    display:flex;
+    justify-content: center;
+    padding-top:60px;
+}

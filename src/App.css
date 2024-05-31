@@ -7,6 +7,16 @@
   pointer-events: none;
 }
 
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 100; /* Include all weights you want to use (100-900) */
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/inter/v12/UcC-33z) format('woff2'),
+       url(https://fonts.gstatic.com/s/inter/v12/UcC-33z) format('woff')
+}
+
+
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
     animation: App-logo-spin infinite 20s linear;

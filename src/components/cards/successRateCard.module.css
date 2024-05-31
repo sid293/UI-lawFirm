@@ -1,0 +1,25 @@
+.wrapper{
+    border-radius: 20px;
+    background-color:var(--backgroundTwo);
+    border:2px solid gray;
+    color:white;
+    overflow:hidden;
+}
+
+.card{
+    /* background-color: var(--backgroundTwo); */
+    background-color: var(--backgroundTwo)!important;
+    border-radius: 20px;
+    color:white;
+}
+
+.cardActionArea{
+
+    color:white;
+    background-color: var(--backgroundTwo);
+}
+
+.description{
+    /* color:var(--grayShade); */
+    color:gray !important;
+}

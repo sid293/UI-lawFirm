@@ -1,0 +1,19 @@
+.heading{
+    background-color:var(--backgroundTwo);
+    margin:0px;
+    color:white;
+    font-family: Inter;
+    font-size: 54px;
+    font-weight: 600;
+    line-height: 77.23px;
+}
+
+.wrapper{
+    background-color:var(--backgroundTwo);
+    width:100vw;
+    height:80vh;
+    gap:40px;
+    display:flex;
+    justify-content:center;
+    align-items: center;
+}

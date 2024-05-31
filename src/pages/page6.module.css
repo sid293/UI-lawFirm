@@ -1,0 +1,18 @@
+.wrapper{
+    background-color:var(--backgroundTwo);
+    color:white;
+    height:90vh;
+}
+
+.heading{
+    margin:0px;
+    padding-bottom:25vh;
+}
+
+.teamCards{
+    margin-left:50px;
+    display:grid;
+    grid-template-columns:repeat(3, auto);
+    grid-row-gap:40px;
+
+}
