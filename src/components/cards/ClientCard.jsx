@@ -5,7 +5,7 @@ import CardContent from '@mui/material/CardContent';
 // import CardActions from '@mui/'
 import Typography from '@mui/material/Typography';
 // import { CardActionArea } from '@mui/material';
-import {CardActionArea, CardActions } from '@mui/material';
+import {CardActionArea} from '@mui/material';
 import style from './clientCard.module.css';
 
 export default function ClientCard({img,heading}){
